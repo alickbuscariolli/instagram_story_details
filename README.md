@@ -1,16 +1,10 @@
-# instagram_story_details_app
+# ChatGPT Flutter Dicas
 
-A new Flutter project.
+Instagram Story Details feito em Flutter
 
-## Getting Started
+Para dicas sobre Flutter
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Instagram
+  https://www.instagram.com/flutterdicas/
+- Youtube
+  https://www.youtube.com/channel/UC5agRAV5i6wRSJTKzVNY27g
