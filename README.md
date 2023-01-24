@@ -1,4 +1,4 @@
-# ChatGPT Flutter Dicas
+# Instagram Story Details Flutter Dicas
 
 Instagram Story Details feito em Flutter
 
